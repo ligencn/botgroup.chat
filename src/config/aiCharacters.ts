@@ -113,7 +113,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     { 
       id: 'ai4', 
-      name: "元宝", 
+      name: "根哥元宝助手", 
       personality: "yuanbao",
       model: modelConfigs[2].model,
       avatar: "/img/yuanbao.png",
@@ -122,7 +122,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     { 
       id: 'ai5', 
-      name: "豆包", 
+      name: "根哥豆包助手", 
       personality: "doubao",
       model: modelConfigs[3].model,
       avatar: "/img/doubao_new.png",
@@ -131,7 +131,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     { 
       id: 'ai6', 
-      name: "千问", 
+      name: "根哥千问助手", 
       personality: "qianwen",
       model: modelConfigs[0].model,
       avatar: "/img/qwen.jpg",
@@ -140,7 +140,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     { 
       id: 'ai7', 
-      name: "DeepSeek", 
+      name: "根哥DeepSeek助手", 
       personality: "deepseek-V3",
       model: modelConfigs[1].model,
       avatar: "/img/ds.svg",
@@ -149,7 +149,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     { 
       id: 'ai8', 
-      name: "智谱", 
+      name: "根哥智谱助手", 
       personality: "glm",
       model: modelConfigs[5].model,
       avatar: "/img/glm.gif",
@@ -158,7 +158,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     {
       id: 'ai9',
-      name: "Kimi",
+      name: "根哥Kimi助手",
       personality: "kimi",
       model: modelConfigs[8].model,
       avatar: "/img/kimi.jpg",
@@ -167,7 +167,7 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
     },
     {
       id: 'ai10',
-      name: "文小言",
+      name: "根哥文小言助手",
       personality: "baidu",
       model: modelConfigs[9].model,
       avatar: "/img/baidu.svg",
